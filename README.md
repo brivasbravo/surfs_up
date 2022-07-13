@@ -23,7 +23,7 @@ due to the hot temperatures.
 and August will only be hotter resulting in more sales. We can also further use location
 of Oahu to further our prediction of warmer weather in the coming summer months
 
-june temps
+![alt text](https://github.com/brivasbravo/surfs_up/blob/main/junetemps.png)
 
 ### Deliverable 2
 
@@ -31,7 +31,7 @@ june temps
 of 56 and 83 which is very close in temperature to June. This helps solidify our prediction
 that it would be beneficial to run both businesses year round.
 
-dec temp pic
+![alt text](https://github.com/brivasbravo/surfs_up/blob/main/dectemps.png)
 
 ## Summary
 
